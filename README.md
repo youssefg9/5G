@@ -7,5 +7,6 @@ For future work on this simulation , i'll try to make the modulation class gener
 
 We input test data in main method variable:string symbolStream
 
+
 ## ethernet packet generation
 found wihin the file a text file called input_config containing the adjustable configurations for this ethernet frame simulation, where the data inputs must be put in the same sequence put in the text file to output correctly , and a user can change the values after the "=" sign in each line and write comments after the "#" sign.
